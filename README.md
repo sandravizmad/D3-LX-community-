@@ -20,14 +20,14 @@ In the first 40 min you will go through the content and play around with the cod
 In the next 40 min I or another coach are going to explain the code example and (try to) 			answer all related questions as well as discuss the concept learnt in this session.
 The last 20 minutes are open for presenting own projects or interesting links/examples 			regarding d3. In case nobody likes to present I will present, but I would really encourage 		you to share as well in order to build real community atmosphere :)
 
-Session 1- Introduction & Coding Example: Chapter 4, 5
-Session 2- Coding Example: Chapter 6, 7
-Session 3- Coding Example: Chapter 7,8
-Session 4- Coding Example: Chapter 9
-Session 5- Coding Example: Chapter 10
-Session 6- Coding Example: Chapter 11, 12
-Session 7- Coding Example: Chapter 13, 14
-Session 8 -Coding Example: Chapter 16
+1. Session 1- Introduction & Coding Example: Chapter 4, 5
+2. Session 2- Coding Example: Chapter 6, 7
+3. Session 3- Coding Example: Chapter 7,8
+4. Session 4- Coding Example: Chapter 9
+5. Session 5- Coding Example: Chapter 10
+6. Session 6- Coding Example: Chapter 11, 12
+7. Session 7- Coding Example: Chapter 13, 14
+8. Session 8 -Coding Example: Chapter 16
 
 Important: For those of you that already know/use D3 and don’t feel the need to go through the book and coding examples, I invite to come to the sessions and use the time to work on your project, maybe having a talk about it in the first 40 min and if you are interested present some of your work in the last 20 min of the session.
 

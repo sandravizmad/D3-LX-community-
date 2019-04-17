@@ -1,6 +1,6 @@
 # D3 LX community
 
-Hello and welcome to the D3.lisbon community sessions 
+Hello and welcome to the D3.lisbon community sessions
 
 The long term objective of these sessions is to create a d3 co-learning community in Lisbon and establish weekly sessions, similar to this example from a front-end co-learning meet-up in Berlin https://www.meetup.com/de-DE/opentechschool-berlin/events/259259284/.
 
@@ -10,17 +10,15 @@ Therefore I planed to work together with you through the following book and code
 Book: https://alignedleft.com/tutorials/d3
 Code examples: https://github.com/alignedleft/d3-book/releases
 
-As a working environment you need to have installed the ATOM editor https://atom.io/ as well as creating an account for the online editors jsbin https://jsbin.com/?html,output and blockbuilder https://blockbuilder.org/. 	
+As a working environment you need to have installed the ATOM editor https://atom.io/ as well as creating an account for the online editors jsbin https://jsbin.com/?html,output and blockbuilder https://blockbuilder.org/.
 
 Please fine more d3 learning material here: https://slides.com/sandravizmad/d3js
 
 The next sessions will have the following agenda:
 
-	In the first 40 min you will go through the content and play around with the coding 			examples planed for this sessions on your own.
-
-	In the next 40 min I or another coach are going to explain the code example and (try to) 			answer all related questions as well as discuss the concept learnt in this session.
-
-	The last 20 minutes are open for presenting own projects or interesting links/examples 			regarding d3. In case nobody likes to present I will present, but I would really encourage 		you to share as well in order to build real community atmosphere :)
+In the first 40 min you will go through the content and play around with the coding 			examples planed for this sessions on your own.
+In the next 40 min I or another coach are going to explain the code example and (try to) 			answer all related questions as well as discuss the concept learnt in this session.
+The last 20 minutes are open for presenting own projects or interesting links/examples 			regarding d3. In case nobody likes to present I will present, but I would really encourage 		you to share as well in order to build real community atmosphere :)
 
 Session 1- Introduction & Coding Example: Chapter 4, 5
 Session 2- Coding Example: Chapter 6, 7

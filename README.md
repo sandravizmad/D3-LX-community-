@@ -2,7 +2,7 @@
 
 Hello and welcome to the D3.lisbon community sessions
 
-The long term objective of these sessions is to create a d3 co-learning community in Lisbon and establish weekly sessions, similar to this example from a front-end co-learning meet-up in Berlin https://www.meetup.com/de-DE/opentechschool-berlin/events/259259284/.
+The long term objective of these sessions is to create a d3 co-learning community in Lisbon and establish weekly sessions, similar to this example from [a front-end co-learning meet-up in Berlin](https://www.meetup.com/de-DE/opentechschool-berlin/events/259259284/).
 
 In order to establish a community we need to have some basic and common knowledge.
 Therefore I planed to work together with you through the following book and code examples
@@ -36,6 +36,9 @@ At the moment I’m hosting and organizing these sessions, but it would be great
 On the 03/05 I won’t be in Lisbon and therefore not able to host the event. If anyone would like to host the meet-up, please get in touch with me otherwise we need to make a break in this week.
 
 That’s all and looking forward to meet and code with you :)
+
+Use our slack for communication online and updates
+
 
 Best,
 Sandra

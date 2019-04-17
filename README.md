@@ -8,11 +8,11 @@ In order to establish a community we need to have some basic and common knowledg
 Therefore I planed to work together with you through the following book and code examples
 
 [BOOK](https://alignedleft.com/tutorials/d3)
-[CODE EXAMPLE] (https://github.com/alignedleft/d3-book/releases)
+[CODE EXAMPLE](https://github.com/alignedleft/d3-book/releases)
 
-As a working environment you need to have installed the ATOM editor [ATOM](https://atom.io/) as well as creating an account for the online editors jsbin [JSBIN] (https://jsbin.com/?html,output) and blockbuilder [BLOCKBUILDER] (https://blockbuilder.org/).
+As a working environment you need to have installed the ATOM editor [ATOM](https://atom.io/) as well as creating an account for the online editors jsbin [JSBIN](https://jsbin.com/?html,output) and blockbuilder [BLOCKBUILDER](https://blockbuilder.org/).
 
-Please fine more d3 learning material here: [D3 PRESENTATION] (https://slides.com/sandravizmad/d3js)
+Please fine more d3 learning material here: [D3 PRESENTATION](https://slides.com/sandravizmad/d3js)
 
 The next sessions will have the following agenda:
 
@@ -31,14 +31,14 @@ The last 20 minutes are open for presenting own projects or interesting links/ex
 
 Important: For those of you that already know/use D3 and don’t feel the need to go through the book and coding examples, I invite to come to the sessions and use the time to work on your project, maybe having a talk about it in the first 40 min and if you are interested present some of your work in the last 20 min of the session.
 
-At the moment I’m hosting and organizing these sessions, but it would be great to share this role with others. Therefore I’m looking for people, which already have some idea about D3 and help me with the coaching/hosting. The final goal would be to establish a similar coaching group as shown in this example for the [CSS class] (https://cssclass.es/coaches/).
+At the moment I’m hosting and organizing these sessions, but it would be great to share this role with others. Therefore I’m looking for people, which already have some idea about D3 and help me with the coaching/hosting. The final goal would be to establish a similar coaching group as shown in this example for the [CSS class](https://cssclass.es/coaches/).
 
 On the 03/05 I won’t be in Lisbon and therefore not able to host the event. If anyone would like to host the meet-up, please get in touch with me otherwise we need to make a break in this week.
 
 That’s all and looking forward to meet and code with you :)
 
 Use our slack for communication online and updates
-[SLACK] (https://join.slack.com/t/d3lxcommunity/shared_invite/enQtNjA0NzE5ODE0NDY1LWVmODVhYjAzYTdhMWJmZTBlNTMxODBlYWRjMTRhNzJkYjZkNmMwOGNjOGEzYzEzNjFkZDU1YzYwZjI4ZDg3OTQ).
+[SLACK](https://join.slack.com/t/d3lxcommunity/shared_invite/enQtNjA0NzE5ODE0NDY1LWVmODVhYjAzYTdhMWJmZTBlNTMxODBlYWRjMTRhNzJkYjZkNmMwOGNjOGEzYzEzNjFkZDU1YzYwZjI4ZDg3OTQ).
 
 
 Best,

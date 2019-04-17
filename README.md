@@ -5,7 +5,7 @@ Hello and welcome to the D3.lisbon community sessions
 The long term objective of these sessions is to create a d3 co-learning community in Lisbon and establish weekly sessions, similar to this example from [a front-end co-learning meet-up in Berlin](https://www.meetup.com/de-DE/opentechschool-berlin/events/259259284/).
 
 In order to establish a community we need to have some basic and common knowledge.
-Therefore I planed to work together with you through the following [BOOK](https://alignedleft.com/tutorials/d3) and 
+Therefore I planed to work together with you through the following [BOOK](https://alignedleft.com/tutorials/d3) and
 [CODE EXAMPLE](https://github.com/alignedleft/d3-book/releases)
 
 As a working environment you need to have installed the ATOM editor [ATOM](https://atom.io/) as well as creating an account for the online editors jsbin [JSBIN](https://jsbin.com/?html,output) and blockbuilder [BLOCKBUILDER](https://blockbuilder.org/).
@@ -18,8 +18,11 @@ In the first 40 min you will go through the content and play around with the cod
 In the next 40 min I or another coach are going to explain the code example and (try to) 			answer all related questions as well as discuss the concept learnt in this session.
 The last 20 minutes are open for presenting own projects or interesting links/examples 			regarding d3. In case nobody likes to present I will present, but I would really encourage 		you to share as well in order to build real community atmosphere :)
 
-1. Session 1- Introduction & Coding Example: Chapter 4, 5
-2. Session 2- Coding Example: Chapter 6, 7
+1. Introduction & Coding Example: Chapter 4, 5
+12/04 19:00 - 21:30 Belas Arte Lisboa/Portugal
+[Sign -up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260370628/)
+
+2. Coding Example: Chapter 6, 7
 3. Session 3- Coding Example: Chapter 7,8
 4. Session 4- Coding Example: Chapter 9
 5. Session 5- Coding Example: Chapter 10

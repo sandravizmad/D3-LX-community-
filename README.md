@@ -27,12 +27,26 @@ The last 20 minutes are open for presenting own projects or interesting links/ex
 3. Scaling - Coding Example: Chapter 7
 30/04 19:00 - 21:30 ISCTE - Lisbon University Institute
 4. Coding Example: Chapter 8
+10/05 19:00 - 21:30 Academia de Bellas Artes de Lisboa
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbnb/)
 5. Coding Example: Chapter 9
+17/05 19:00 - 21:30 Academia de Bellas Artes de Lisboa
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbwb/)
 6. Coding Example: Chapter 10
+24/05 19:00 - 21:30 Academia de Bellas Artes de Lisboa
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
 7. Coding Example: Chapter 11, 12
+31/05 19:00 - 21:30 Academia de Bellas Artes de Lisboa
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/) 
 8. Coding Example: Chapter 13
+04/06 19:00 - 21:30 ISCTE - Lisbon University Institute
+[Sign-up]()
 9. Coding Example: Chapter 14
+18/06 19:00 - 21:30 ISCTE - Lisbon University Institute
+[Sign-up]()
 10. Coding Example: Chapter 16
+24/06 19:00 - 21:30 ISCTE - Lisbon University Institute
+[Sign-up]()
 
 Important: For those of you that already know/use D3 and don’t feel the need to go through the book and coding examples, I invite to come to the sessions and use the time to work on your project, maybe having a talk about it in the first 40 min and if you are interested present some of your work in the last 20 min of the session.
 

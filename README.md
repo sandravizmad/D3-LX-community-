@@ -60,7 +60,7 @@ The last 20 minutes are open for presenting own projects or interesting links/ex
 24/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850897/)
 
-Important: For those of you that already know/use D3 and don’t feel the need to go through the book and coding examples, I invite to come to the sessions and use the time to work on your project, maybe having a talk about it in the first 40 min and if you are interested present some of your work in the last 20 min of the session.
+Important: For those of you that already know/use D3 and don’t feel the need to go through the book and coding examples, I invite you to come to the sessions and use the time to work on your projects, maybe having a talk about it in the first 40 min and if you are interested presenting some of your work in the last 20 min of the session.
 
 At the moment I’m hosting and organizing these sessions, but it would be great to share this role with others. :neckbeard: Therefore I’m looking for people, which already have some idea about D3 and help me with the coaching/hosting. The final goal would be to establish a similar coaching group as shown in this example for the [CSS class](https://cssclass.es/coaches/).
 

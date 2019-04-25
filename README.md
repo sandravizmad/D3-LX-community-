@@ -24,39 +24,39 @@ The last 20 minutes are open for presenting own projects or interesting links/ex
 12/04 19:00 - 20:30 Belas Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260370628/)
 
-##### 2. Drawing Divs - Code Chapter 6
+#### Drawing Divs - Code Chapter 6
 12/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260698294/)
 
-##### 3. Scales - Code Chapter 7
+#### Scales - Code Chapter 7
 30/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850766/)
 
-##### 4. Axes - Code Chapter 8
+#### Axes - Code Chapter 8
 10/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbnb/)
 
-##### 5. Transitions - Code Chapter 9
+#### Transitions - Code Chapter 9
 17/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbwb/)
 
-##### 6. Interactivity - Code Chapter 10
+#### Interactivity - Code Chapter 10
 24/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
 
-##### 7. Using Path & Update pattern - Code Chapters 11, 12
+#### Using Path & Update pattern - Code Chapters 11, 12
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 
-##### 8. Layouts - Code Chapter 13
+#### Layouts - Code Chapter 13
 04/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)
 
-##### 9. Geomapping - Code Chapter 14
+#### Geomapping - Code Chapter 14
 18/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850888/)
 
-##### 10. Project walk thorough - Code Chapter 16
+#### Project walk thorough - Code Chapter 16
 24/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850897/)
 

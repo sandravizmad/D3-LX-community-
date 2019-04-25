@@ -6,9 +6,9 @@ The long term objective of these sessions is to create a d3 co-learning communit
 
 In order to establish a community we need to have some basic and common knowledge.
 Therefore I planed to work together with you through the following [Book](https://alignedleft.com/tutorials/d3) and
-[Code example](https://github.com/alignedleft/d3-book/releases)
+[Code examples](https://github.com/alignedleft/d3-book/releases)
 
-As a working environment you need to have installed the ATOM editor [ATOM](https://atom.io/) as well as creating an account for the online editors jsbin [JSBIN](https://jsbin.com/?html,output) and blockbuilder [Blockbuilder](https://blockbuilder.org/).
+As a working environment you need to have installed [ATOM](https://atom.io/) as well as creating an account for [JSBIN](https://jsbin.com/?html,output) and [Blockbuilder](https://blockbuilder.org/).
 
 Please fine more d3 learning material here: [D3 Presentation](https://slides.com/sandravizmad/d3js)
 

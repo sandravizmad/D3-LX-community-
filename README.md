@@ -12,7 +12,7 @@ As a working environment you need to have installed the ATOM editor [ATOM](https
 
 Please fine more d3 learning material here: [D3 Presentation](https://slides.com/sandravizmad/d3js)
 
-## The next sessions will have the following agenda:
+### The next sessions will have the following agenda:
 
 In the first 40 min you will go through the content and play around with the coding examples planed for this sessions on your own.
 
@@ -25,47 +25,47 @@ Coding Example: Chapter 4, 5
 12/04 19:00 - 20:30 Belas Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260370628/)
 
-### 2. Drawing Divs
+#### 2. Drawing Divs
 Coding Example: Chapter 6
 12/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260698294/)
 
-### 3. Scaling
+#### 3. Scales
 Coding Example: Chapter 7
 30/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850766/)
 
-### 4. Axes
+#### 4. Axes
 Coding Example: Chapter 8
 10/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbnb/)
 
-### 5. Transitions
+#### 5. Transitions
 Coding Example: Chapter 9
 17/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbwb/)
 
-### 6. Interactions
+#### 6. Interactivity
 Coding Example: Chapter 10
 24/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
 
-### 7. Line chart - Enter, upate, exit pattern
+#### 7. Using Path & Update pattern
 Coding Example: Chapter 11, 12
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 
-### 8. Layouts
+#### 8. Layouts
 Coding Example: Chapter 13
 04/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)
 
-### 9.
+#### 9. Geomapping
 Coding Example: Chapter 14
 18/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850888/)
 
-### 10.
+#### 10. Project walk thorough
 Coding Example: Chapter 16
 24/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850897/)

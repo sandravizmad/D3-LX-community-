@@ -1,8 +1,8 @@
-# D3 LX community
+# D3 LX community :two_hearts:
 
-Hello and welcome to the D3.lisbon community sessions :two_hearts:
+Hello and welcome to the D3.lisbon community sessions
 
-The long term objective of these sessions is to create a d3 co-learning community in Lisbon and establish weekly sessions, similar to this example from [a front-end co-learning meet-up in Berlin](https://www.meetup.com/de-DE/opentechschool-berlin/events/259259284/).
+The long term objective of these sessions is to create a d3 co-learning community in Lisbon and establish weekly sessions, similar to this [example](https://www.meetup.com/de-DE/opentechschool-berlin/events/259259284/).
 
 In order to establish a community we need to have some basic and common knowledge.
 Therefore I planed to work together with you through the following [Book](https://alignedleft.com/tutorials/d3) and
@@ -12,53 +12,72 @@ As a working environment you need to have installed the ATOM editor [ATOM](https
 
 Please fine more d3 learning material here: [D3 Presentation](https://slides.com/sandravizmad/d3js)
 
-The next sessions will have the following agenda:
+## The next sessions will have the following agenda:
 
 In the first 40 min you will go through the content and play around with the coding examples planed for this sessions on your own.
+
 In the next 40 min I or another coach are going to explain the code example and (try to) answer all related questions as well as discuss the concept learnt in this session.
+
 The last 20 minutes are open for presenting own projects or interesting links/examples regarding d3. In case nobody likes to present I will present, but I would really encourage you to share as well in order to build real community atmosphere :)
 
-1. Introduction - Coding Example: Chapter 4, 5
+### 1. Introduction
+Coding Example: Chapter 4, 5
 12/04 19:00 - 20:30 Belas Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260370628/)
-2. Drawing Divs - Coding Example: Chapter 6
+
+### 2. Drawing Divs
+Coding Example: Chapter 6
 12/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260698294/)
-3. Scaling - Coding Example: Chapter 7
+
+### 3. Scaling
+Coding Example: Chapter 7
 30/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850766/)
-4. Coding Example: Chapter 8
+
+### 4. Axes
+Coding Example: Chapter 8
 10/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbnb/)
-5. Coding Example: Chapter 9
+
+### 5. Transitions
+Coding Example: Chapter 9
 17/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbwb/)
-6. Coding Example: Chapter 10
+
+### 6. Interactions
+Coding Example: Chapter 10
 24/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
-7. Coding Example: Chapter 11, 12
+
+### 7.
+Coding Example: Chapter 11, 12
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
-8. Coding Example: Chapter 13
+
+### 8.
+Coding Example: Chapter 13
 04/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)
-9. Coding Example: Chapter 14
+
+### 9.
+Coding Example: Chapter 14
 18/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850888/)
-10. Coding Example: Chapter 16
+
+### 10.
+Coding Example: Chapter 16
 24/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850897/)
 
 Important: For those of you that already know/use D3 and don’t feel the need to go through the book and coding examples, I invite to come to the sessions and use the time to work on your project, maybe having a talk about it in the first 40 min and if you are interested present some of your work in the last 20 min of the session.
 
-At the moment I’m hosting and organizing these sessions, but it would be great to share this role with others. Therefore I’m looking for people, which already have some idea about D3 and help me with the coaching/hosting. The final goal would be to establish a similar coaching group as shown in this example for the [CSS class](https://cssclass.es/coaches/).
-
-On the 03/05 I won’t be in Lisbon and therefore not able to host the event. If anyone would like to host the meet-up, please get in touch with me otherwise we need to make a break in this week.
+At the moment I’m hosting and organizing these sessions, but it would be great to share this role with others. :neckbeard: Therefore I’m looking for people, which already have some idea about D3 and help me with the coaching/hosting. The final goal would be to establish a similar coaching group as shown in this example for the [CSS class](https://cssclass.es/coaches/).
 
 That’s all and looking forward to meet and code with you :)
 
 Use our slack for communication online and updates
-[Slack](https://join.slack.com/t/d3lxcommunity/shared_invite/enQtNjA0NzE5ODE0NDY1LWVmODVhYjAzYTdhMWJmZTBlNTMxODBlYWRjMTRhNzJkYjZkNmMwOGNjOGEzYzEzNjFkZDU1YzYwZjI4ZDg3OTQ).
+[Slack](https://join.slack.com/t/d3lxcommunity/shared_invite/enQtNjA0NzE5ODE0NDY1LWVmODVhYjAzYTdhMWJmZTBlNTMxODBlYWRjMTRhNzJkYjZkNmMwOGNjOGEzYzEzNjFkZDU1YzYwZjI4ZDg3OTQ). :wave:
 
 
 Best,

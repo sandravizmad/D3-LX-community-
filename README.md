@@ -25,7 +25,7 @@ The last 20 minutes are open for presenting own projects or interesting links/ex
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260370628/)
 
 #### Drawing Divs - Code Chapter 6
-12/04 19:00 - 20:30 ISCTE - Lisbon University Institute
+23/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260698294/)
 
 #### Scales - Code Chapter 7

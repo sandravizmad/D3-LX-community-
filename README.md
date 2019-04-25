@@ -1,6 +1,6 @@
 # D3 LX community
 
-Hello and welcome to the D3.lisbon community sessions
+Hello and welcome to the D3.lisbon community sessions :two_hearts:
 
 The long term objective of these sessions is to create a d3 co-learning community in Lisbon and establish weekly sessions, similar to this example from [a front-end co-learning meet-up in Berlin](https://www.meetup.com/de-DE/opentechschool-berlin/events/259259284/).
 
@@ -19,34 +19,35 @@ In the next 40 min I or another coach are going to explain the code example and 
 The last 20 minutes are open for presenting own projects or interesting links/examples regarding d3. In case nobody likes to present I will present, but I would really encourage you to share as well in order to build real community atmosphere :)
 
 1. Introduction - Coding Example: Chapter 4, 5
-12/04 19:00 - 21:30 Belas Academia de Bellas Artes de Lisboa
+12/04 19:00 - 20:30 Belas Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260370628/)
 2. Drawing Divs - Coding Example: Chapter 6
-12/04 19:00 - 21:30 ISCTE - Lisbon University Institute
+12/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260698294/)
 3. Scaling - Coding Example: Chapter 7
-30/04 19:00 - 21:30 ISCTE - Lisbon University Institute
+30/04 19:00 - 20:30 ISCTE - Lisbon University Institute
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850766/)
 4. Coding Example: Chapter 8
-10/05 19:00 - 21:30 Academia de Bellas Artes de Lisboa
+10/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbnb/)
 5. Coding Example: Chapter 9
-17/05 19:00 - 21:30 Academia de Bellas Artes de Lisboa
+17/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbwb/)
 6. Coding Example: Chapter 10
-24/05 19:00 - 21:30 Academia de Bellas Artes de Lisboa
+24/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
 7. Coding Example: Chapter 11, 12
-31/05 19:00 - 21:30 Academia de Bellas Artes de Lisboa
+31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 8. Coding Example: Chapter 13
-04/06 19:00 - 21:30 ISCTE - Lisbon University Institute
-[Sign-up]()
+04/06 19:00 - 20:30 ISCTE - Lisbon University Institute
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)
 9. Coding Example: Chapter 14
-18/06 19:00 - 21:30 ISCTE - Lisbon University Institute
-[Sign-up]()
+18/06 19:00 - 20:30 ISCTE - Lisbon University Institute
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850888/)
 10. Coding Example: Chapter 16
-24/06 19:00 - 21:30 ISCTE - Lisbon University Institute
-[Sign-up]()
+24/06 19:00 - 20:30 ISCTE - Lisbon University Institute
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850897/)
 
 Important: For those of you that already know/use D3 and don’t feel the need to go through the book and coding examples, I invite to come to the sessions and use the time to work on your project, maybe having a talk about it in the first 40 min and if you are interested present some of your work in the last 20 min of the session.
 

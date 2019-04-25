@@ -20,7 +20,7 @@ In the next 40 min I or another coach are going to explain the code example and 
 
 The last 20 minutes are open for presenting own projects or interesting links/examples regarding d3. In case nobody likes to present I will present, but I would really encourage you to share as well in order to build real community atmosphere :)
 
-#### 1. Introduction - Code Chapters 4, 5
+#### Introduction - Code Chapters 4, 5
 12/04 19:00 - 20:30 Belas Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260370628/)
 

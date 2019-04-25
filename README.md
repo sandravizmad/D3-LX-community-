@@ -20,7 +20,7 @@ In the next 40 min I or another coach are going to explain the code example and 
 
 The last 20 minutes are open for presenting own projects or interesting links/examples regarding d3. In case nobody likes to present I will present, but I would really encourage you to share as well in order to build real community atmosphere :)
 
-### 1. Introduction
+#### 1. Introduction
 Coding Example: Chapter 4, 5
 12/04 19:00 - 20:30 Belas Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260370628/)
@@ -50,12 +50,12 @@ Coding Example: Chapter 10
 24/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
 
-### 7.
+### 7. Line chart - Enter, upate, exit pattern
 Coding Example: Chapter 11, 12
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 
-### 8.
+### 8. Layouts
 Coding Example: Chapter 13
 04/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)

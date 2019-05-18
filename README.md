@@ -44,6 +44,8 @@ The last 20 minutes are open for presenting own projects or interesting links/ex
 24/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
 
+Blockbuilder example: [Simple graph with filled area in v4](https://bl.ocks.org/sandravizmad/7190e8d6236f1cc34afb886ce105bec5) let's fork and play with it :sparkles:
+
 #### Using Path & Update pattern - Code Chapters 11, 12
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
@@ -67,7 +69,7 @@ At the moment I’m hosting and organizing these sessions, but it would be great
 That’s all and looking forward to meet and code with you :)
 
 Use our slack for communication online and updates
-[Slack](https://join.slack.com/t/d3lxcommunity/shared_invite/enQtNjA0NzE5ODE0NDY1LWVmODVhYjAzYTdhMWJmZTBlNTMxODBlYWRjMTRhNzJkYjZkNmMwOGNjOGEzYzEzNjFkZDU1YzYwZjI4ZDg3OTQ). :wave:
+[Slack](https://join.slack.com/t/d3lxcommunity/shared_invite/enQtNjM4OTQwNzA2ODg0LWYzYzU5YWViMDFmZDk0ZWRlZTFjZjg1OGU1MDExNWIwZWEzNzZhZTFmYWZiMmVjMjkyNzlhMGM3MzMxMWQ1ZTI). :wave:
 
 
 Best,

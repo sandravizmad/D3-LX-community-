@@ -36,29 +36,33 @@ The last 20 minutes are open for presenting own projects or interesting links/ex
 10/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbnb/)
 
-#### Transitions - Code Chapter 9
+#### Transitions - Code Chapter repeat 8
 17/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbwb/)
 
-#### Interactivity - Code Chapter 10
+localhost via SERVED [Explaining Video](https://www.youtube.com/watch?v=HJuXyyFne-8)
+
+#### Interactivity - Code Chapter 9
 24/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
 
 Blockbuilder example: [Simple graph with filled area in v4](https://bl.ocks.org/sandravizmad/7190e8d6236f1cc34afb886ce105bec5) let's fork and play with it :sparkles:
 
-#### Using Path & Update pattern - Code Chapters 11, 12
+#### Using Path & Update pattern - Code Chapters repeat 8,9
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 
-#### Layouts - Code Chapter 13
-04/06 19:00 - 20:30 ISCTE - Lisbon University Institute
+#### Layouts - Code Chapter 10
+07/06 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)
 
-#### Geomapping - Code Chapter 14
+Blockbuilder example: [Advanced example using transitions](http://bl.ocks.org/sandravizmad/e17712597b3d487516128dd7681cc58b) let's fork and play with it :sparkles:
+
+#### Geomapping - Code Chapter 11,12
 18/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850888/)
 
-#### Project walk thorough - Code Chapter 16
+#### Project walk thorough - Code Chapter 13
 24/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850897/)
 

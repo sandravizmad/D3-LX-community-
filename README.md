@@ -38,26 +38,26 @@ Close look at [d3.min d3.max and d3.extent](https://observablehq.com/@d3/d3-min-
 10/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbnb/)
 
-#### Transitions - Code Chapter repeat 8
+#### Axes - Code Chapter repeat 8
 17/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbwb/)
 
 localhost via SERVED [Explaining Video](https://www.youtube.com/watch?v=HJuXyyFne-8)
 
-#### Interactivity - Code Chapter 9
+#### Transitions - Code Chapter 9
 24/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbgc/)
 
 Blockbuilder example: [Simple graph with filled area in v4](https://bl.ocks.org/sandravizmad/7190e8d6236f1cc34afb886ce105bec5) let's fork and play with it :sparkles:
 
-#### Using Path & Update pattern - Code Chapters repeat 9
+#### Transitions - Code Chapters repeat 9
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 
 Close look at [d3.range](https://observablehq.com/@d3/d3-range)
 and [d3.merge](https://observablehq.com/@d3/d3-merge?collection=@d3/d3-array)
 
-#### Layouts - Code Chapter 10
+#### Interactivity - Code Chapter 10
 07/06 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)
 
@@ -65,11 +65,11 @@ Close look at [d3.ascending](https://observablehq.com/@d3/d3-ascending?collectio
 
 Blockbuilder example: [Advanced example using transitions](http://bl.ocks.org/sandravizmad/e17712597b3d487516128dd7681cc58b) let's fork and play with it :sparkles:
 
-#### Geomapping - Code Chapter 11,12
+#### Path & Selections - Code Chapter 11,12
 18/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850888/)
 
-#### Project walk thorough - Code Chapter 13
+#### Layout - Code Chapter 13
 24/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850897/)
 

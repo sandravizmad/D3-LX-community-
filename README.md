@@ -32,6 +32,8 @@ The last 20 minutes are open for presenting own projects or interesting links/ex
 30/04 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850766/)
 
+Close look at [d3.min d3.max and d3.extent](https://observablehq.com/@d3/d3-min-d3-max-d3-extent?collection=@d3/d3-array)
+
 #### Axes - Code Chapter 8
 10/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbnb/)

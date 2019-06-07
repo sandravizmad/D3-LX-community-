@@ -50,11 +50,12 @@ localhost via SERVED [Explaining Video](https://www.youtube.com/watch?v=HJuXyyFn
 
 Blockbuilder example: [Simple graph with filled area in v4](https://bl.ocks.org/sandravizmad/7190e8d6236f1cc34afb886ce105bec5) let's fork and play with it :sparkles:
 
-#### Using Path & Update pattern - Code Chapters repeat 8,9
+#### Using Path & Update pattern - Code Chapters repeat 9
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 
 Close look at [d3.range](https://observablehq.com/@d3/d3-range)
+Close look at [d3.merge](https://observablehq.com/@d3/d3-merge?collection=@d3/d3-array)
 
 #### Layouts - Code Chapter 10
 07/06 19:00 - 20:30 Academia de Bellas Artes de Lisboa

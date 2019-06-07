@@ -55,11 +55,13 @@ Blockbuilder example: [Simple graph with filled area in v4](https://bl.ocks.org/
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 
 Close look at [d3.range](https://observablehq.com/@d3/d3-range)
-Close look at [d3.merge](https://observablehq.com/@d3/d3-merge?collection=@d3/d3-array)
+and [d3.merge](https://observablehq.com/@d3/d3-merge?collection=@d3/d3-array)
 
 #### Layouts - Code Chapter 10
 07/06 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)
+
+Close look at [d3.ascending](https://observablehq.com/@d3/d3-ascending?collection=@d3/d3-array)
 
 Blockbuilder example: [Advanced example using transitions](http://bl.ocks.org/sandravizmad/e17712597b3d487516128dd7681cc58b) let's fork and play with it :sparkles:
 

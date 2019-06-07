@@ -52,6 +52,8 @@ Blockbuilder example: [Simple graph with filled area in v4](https://bl.ocks.org/
 31/05 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/pjtmwqyzhbpc/)
 
+Close look at [d3.range](https://observablehq.com/@d3/d3-range)
+
 #### Layouts - Code Chapter 10
 07/06 19:00 - 20:30 Academia de Bellas Artes de Lisboa
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850880/)

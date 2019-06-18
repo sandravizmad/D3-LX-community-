@@ -35,6 +35,7 @@ Go through examples [d3 in depth - joins](https://www.d3indepth.com/datajoins/)
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850766/)
 
 Close look at [d3.min d3.max and d3.extent](https://observablehq.com/@d3/d3-min-d3-max-d3-extent?collection=@d3/d3-array)
+
 Go through examples [d3 in depth - scales](https://www.d3indepth.com/scales/)
 
 #### Axes - Code Chapter 8
@@ -72,7 +73,7 @@ Blockbuilder example: [Advanced example using transitions](http://bl.ocks.org/sa
 18/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850888/)
 
-Go through examples [d3 in depth - shapes](https://www.d3indepth.com/shapes/) and [d3 in depth - selections](https://www.d3indepth.com/selections/)
+Go through examples [d3 in depth - shapes](https://www.d3indepth.com/shapes/) and [- selections](https://www.d3indepth.com/selections/)
 
 #### Layout - Code Chapter 13
 24/06 19:00 - 20:30 ISCTE - Lisbon University Institute

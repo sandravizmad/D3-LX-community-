@@ -95,13 +95,13 @@ Go through examples [d3 in depth - layout](https://www.d3indepth.com/layouts/)
 
 #### Geo-projection - Code Chapter 14
 19/07 19:00 - 20:30 ISCTE - Lisbon University Institute
-[Sign-up]()
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/262891896/)
 
 Go through examples [d3 in depth - geographic](https://www.d3indepth.com/geographic/)
 
 #### Geo-projection - Code Chapter 14
 26/07 19:00 - 20:30 ISCTE - Lisbon University Institute
-[Sign-up]()
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/262891904/)
 
 Go through examples [d3 in depth - geographic](https://www.d3indepth.com/geographic/)
 

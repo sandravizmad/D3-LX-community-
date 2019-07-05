@@ -69,17 +69,42 @@ Close look at [d3.ascending](https://observablehq.com/@d3/d3-ascending?collectio
 
 Blockbuilder example: [Advanced example using transitions](http://bl.ocks.org/sandravizmad/e17712597b3d487516128dd7681cc58b) let's fork and play with it :sparkles:
 
-#### Path & Selections - Code Chapter 11,12
+#### Path & Selections - Code Chapter 11
 18/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850888/)
 
 Go through examples [d3 in depth - shapes](https://www.d3indepth.com/shapes/) and [- selections](https://www.d3indepth.com/selections/)
 
-#### Layout - Code Chapter 13
+#### Enter, Exit & Update - Code Chapter 12
 24/06 19:00 - 20:30 ISCTE - Lisbon University Institute
 [Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/260850897/)
 
+Go through examples [d3 in depth - enter, exit](https://www.d3indepth.com/enterexit/)
+
+#### Layout - Code Chapter 13
+05/07 19:00 - 20:30 Academia de Bellas Artes de Lisboa
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/262710906/)
+
 Go through examples [d3 in depth - layout](https://www.d3indepth.com/layouts/)
+
+#### Layout - Code Chapter 13
+12/07 19:00 - 20:30 Academia de Bellas Artes de Lisboa
+[Sign-up](https://www.meetup.com/de-DE/Data-Visualization-Lisboa/events/262710856/)
+
+Go through examples [d3 in depth - layout](https://www.d3indepth.com/layouts/)
+
+#### Geo-projection - Code Chapter 14
+19/07 19:00 - 20:30 ISCTE - Lisbon University Institute
+[Sign-up]()
+
+Go through examples [d3 in depth - geographic](https://www.d3indepth.com/geographic/)
+
+#### Geo-projection - Code Chapter 14
+26/07 19:00 - 20:30 ISCTE - Lisbon University Institute
+[Sign-up]()
+
+Go through examples [d3 in depth - geographic](https://www.d3indepth.com/geographic/)
+
 
 Important: For those of you that already know/use D3 and don’t feel the need to go through the book and coding examples, I invite you to come to the sessions and use the time to work on your projects, maybe having a talk about it in the first 40 min and if you are interested presenting some of your work in the last 20 min of the session.
 

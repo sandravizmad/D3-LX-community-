@@ -1,4 +1,4 @@
-# D3 LX community :two_hearts:
+# D3 lisbon community :two_hearts:
 
 Hello and welcome to the D3.lisbon community sessions
 
